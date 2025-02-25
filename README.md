@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I'm **Osman Deniz Savaş**, a passionate developer who started with **Android development** and later expanded into **ethical hacking** and **cybersecurity**. I love exploring new technologies, solving security challenges, and building software solutions.
+I'm **Osman Deniz Savaş**, a passionate developer who started with **Android Development** and later expanded into **Ethical Hacking** and **Cybersecurity**. I love exploring new technologies, solving security challenges, and building software solutions.
 
 - 💻 **Software Development**: Android, Backend Systems, Automation
 - 🔐 **Cybersecurity & Ethical Hacking**: CTF Challenges, Penetration Testing, Security Research
-- 📚 Currently expanding my knowledge in **ethical hacking & cybersecurity**
+- 📚 Currently expanding my knowledge in **Ethical Hacking & Cybersecurity**
 
 ## 🔧 Technologies & Tools
 
