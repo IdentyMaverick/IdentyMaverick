@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**IdentyMaverick/IdentyMaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm **Osman Deniz Savaş**, a passionate developer who started with **Android development** and later expanded into **ethical hacking** and **cybersecurity**. I love exploring new technologies, solving security challenges, and building software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Software Development**: Android, Backend Systems, Automation
+- 🔐 **Cybersecurity & Ethical Hacking**: CTF Challenges, Penetration Testing, Security Research
+- 📚 Currently expanding my knowledge in **ethical hacking & cybersecurity**
+
+## 🔧 Technologies & Tools
+
+### 💾 Programming Languages:
+- Kotlin | Java
+
+### 🛠️ Tools & Frameworks:
+- Kali Linux | Wireshark | Nmap
+- Android SDK | Jetpack Compose | Retrofit | Firebase
+
+### 🎯 Interests:
+- Mobile App Development
+- Mobile App Security
+- Network Security & Penetration Testing
+- Reverse Engineering
+
+## 📌 Featured Projects
+
+### 🔹 Android Development:
+- Will Be Updated
+
+### 🔹 Cybersecurity & Ethical Hacking:
+- Will Be Updated
+
+## 📫 Connect with Me
+- 🌐 Website: [osmandenizsavas.com](https://osmandenizsavas.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://github.com/IdentyMaverick)
+
+---
+💡 **"Learning never stops!"** If you're into Android development, ethical hacking, or cybersecurity, let's connect and share knowledge!
+
