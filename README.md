@@ -33,7 +33,8 @@ I'm **Osman Deniz Savaş**, a passionate developer who started with **Android De
 
 ## 📫 Connect with Me
 - 🌐 Website: [osmandenizsavas.com](https://osmandenizsavas.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://github.com/IdentyMaverick)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://tr.linkedin.com/in/osmandenizsavas)
+- 💻 Github: [Your LinkedIn Profile](https://github.com/IdentyMaverick)
 
 ---
 💡 **"Learning never stops!"** If you're into Android development, ethical hacking, or cybersecurity, let's connect and share knowledge!
