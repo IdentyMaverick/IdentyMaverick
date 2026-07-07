@@ -2,33 +2,26 @@
 
 ## 🚀 About Me
 
-I'm **Osman Deniz Savaş**, a passionate developer who started with **Android Development** and later expanded into **Ethical Hacking** and **Cybersecurity**. I love exploring new technologies, solving security challenges, and building software solutions.
+I'm **Osman Deniz Savaş**, a passionate developer who started with **Android Development**. I love exploring new technologies.
 
-- 💻 **Software Development**: Android, Backend Systems, Automation
-- 🔐 **Cybersecurity & Ethical Hacking**: CTF Challenges, Penetration Testing, Security Research
-- 📚 Currently expanding my knowledge in **Ethical Hacking & Cybersecurity**
+- 💻 **Software Development**: Android, IOS
 
 ## 🔧 Technologies & Tools
+- Jetpack Compose
 
 ### 💾 Programming Languages:
 - Kotlin | Java
 
 ### 🛠️ Tools & Frameworks:
-- Kali Linux | Wireshark | Nmap
 - Android SDK | Jetpack Compose | Retrofit | Firebase
 
 ### 🎯 Interests:
 - Mobile App Development
-- Mobile App Security
-- Network Security & Penetration Testing
-- Reverse Engineering
 
 ## 📌 Featured Projects
+- GROZZ
 
 ### 🔹 Android Development:
-- Will Be Updated
-
-### 🔹 Cybersecurity & Ethical Hacking:
 - Will Be Updated
 
 ## 📫 Connect with Me
