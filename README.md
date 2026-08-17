@@ -4,7 +4,7 @@
 
 I'm **Osman Deniz Savaş**, a passionate developer who started with **Android Development**. I love exploring new technologies.
 
-- 💻 **Software Development**: Android, IOS
+- 💻 **Multiplatform Full Stack Mobile Developer**: Android, IOS
 
 ## 🔧 Technologies & Tools
 - Jetpack Compose
@@ -12,8 +12,13 @@ I'm **Osman Deniz Savaş**, a passionate developer who started with **Android De
 ### 💾 Programming Languages:
 - Kotlin | Java
 
-### 🛠️ Tools & Frameworks:
-- Android SDK | Jetpack Compose | Retrofit | Firebase
+🛠 **Tech Stack & Tools**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🎯 Interests:
 - Mobile App Development
