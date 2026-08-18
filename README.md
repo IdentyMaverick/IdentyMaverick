@@ -20,6 +20,7 @@ I'm **Osman Deniz Savaş**, a passionate developer who started with **Android De
 
 ### 🎯 Interests:
 - Mobile App Development
+- AI Development
 
 ## 📌 Featured Projects
 - GROZZ
